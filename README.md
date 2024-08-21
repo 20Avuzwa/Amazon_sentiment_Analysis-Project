@@ -13,7 +13,7 @@ This project is aimed at analyzing Amazon product reviews to understand customer
 - [How to Run the Analysis](#how-to-run-the-analysis)
 - [Dependencies](#dependencies)
 - [Conclusion](#conclusion)
-- [License](#license)
+
 
 ## Data Description
 
